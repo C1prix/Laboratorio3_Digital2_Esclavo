@@ -2,7 +2,7 @@
  * File:   ADC.h
  * Author: Gabriel Cipriano
  *
- * Created on 20 de julio de 2023, 02:22 AM
+ * Created on 21 de julio de 2023
  */
 
 #ifndef ADC_H
