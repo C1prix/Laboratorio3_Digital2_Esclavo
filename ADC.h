@@ -1,6 +1,6 @@
 /* 
  * File:   ADC.h
- * Author: Luis Antunez
+ * Author: Gabriel Cipriano
  *
  * Created on 20 de julio de 2023, 02:22 AM
  */
